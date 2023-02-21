@@ -6,7 +6,6 @@
 <h1 align="center">
   Gatsby Starter Shopify
 </h1>
-## Live Demo URL: https://shopify-demo.gatsbyjs.com/
 
 Kick off your next [Shopify](https://www.shopify.com/) project with this boilerplate. This starter creates a store with a custom landing page, individual filtered views for each product, detailed product pages, advanced instant search and a shopping cart. All styled with CSS Modules.
 
@@ -15,6 +14,9 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 [<img src="https://www.gatsbyjs.com/deploynow.png" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-shopify)
 
 Check out the [demo site](https://shopify-demo.gatsbyjs.com) showcasing a proof-of-concept with 10k products and 30k variants.
+
+### ⚡ Live Demo URL: https://shopify-demo.gatsbyjs.com/
+<br/>
 
 ## 🚀 Quick start
 
