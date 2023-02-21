@@ -6,6 +6,7 @@
 <h1 align="center">
   Gatsby Starter Shopify
 </h1>
+## Live Demo URL: https://shopify-demo.gatsbyjs.com/
 
 Kick off your next [Shopify](https://www.shopify.com/) project with this boilerplate. This starter creates a store with a custom landing page, individual filtered views for each product, detailed product pages, advanced instant search and a shopping cart. All styled with CSS Modules.
 
